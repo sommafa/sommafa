@@ -5,7 +5,7 @@ Senior .NET Developer
 ---------------------
 
 * 🌍  I'm based in Piacenza/Italy.. dreaming New York
-* ✉️  You can contact me at [here!](mailto:sommafa@gmail.com)
+* ✉️  You can contact me [here!](mailto:sommafa@gmail.com)
 * 🧠  I'm learning Python
 * ⚡  If nothing goes right, go left!
 
